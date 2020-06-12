@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x\ h\ s
+comment0.target=BouncingBall(double,\ double,\ double)
+comment0.text=\ Construct\ a\ new\ BouncingBall\ object.\n\ \ \ \ Parameters\ are\ the\ initial\ x\ position,\ the\ height\ above\ the\ ground,\ and\ the\ initial\n\ \ \ \ speed\ to\ the\ right\ (ie,\ the\ horizontal\ step\ size)\n\ \ \ \ Stores\ the\ parameters\ into\ fields\ (computing\ the\ y\ position\ from\ the\ height)\n\ \ \ \ and\ initialises\ the\ other\ fields,\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\ Move\ the\ shape\ one\ step.\n\ \ \ \ changes\ its\ height\ and\ x\ position\ using\ the\ vertical\ and\ horizonal\ steps\n\ \ \ \ If\ it\ would\ go\ below\ ground,\ then\ it\ "bounces"\:\n\ \ \ \ \ \ sets\ its\ y\ position\ to\ ground\ level,\ and\ reverses\ the\ vertical\ step\ size.\n\ \ \ \ It\ then\ adds\ 0.3\ to\ its\ vertical\ step\ size\n(because\ gravity\ is\ making\ its\ downward\ speed\ greater\ each\ step)
+comment2.params=
+comment2.target=double\ getX()
+comment2.text=Return\ the\ current\ x\ position\ of\ the\ ball
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\ Draw\ the\ shape\ on\ the\ canvas\ in\ its\ current\ position.\n
+comment4.params=
+comment4.target=void\ test()
+comment4.text=\ A\ method\ to\ test\ your\ code.\nCan\ be\ called\ from\ BlueJ
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

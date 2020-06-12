@@ -1,0 +1,34 @@
+COMP 102 2011T2;  Assignment 3
+Name: Tianfu Yuan
+ID: 300228072
+
+
+Questions for Reflection: 
+=========================
+
+1. In the MethodParameters exercise, how did you go about deciding what
+parameters the new method should have?  Can you suggest a good procedure for
+doing this?
+
+If the method we will quote not the number, we use "string". If the number is integer, we use "int". Otherwise, we use "double".
+When we want to create the new method, if we will use this do some calculation, we use "double". If we just quote something, we use "string" to define this method. 
+
+2.  What are the additional concepts about programming and about Java that you
+have learned this week?  
+ - Copy the concepts you listed in last week's reflection, and fix the
+   descriptions up if you have a better understanding of them now
+ - Add the new concepts you have acquired this week, along with one sentence
+   descriptions of them.
+
+   Last week's reflection: 
+   (1)When some bugs shown on my Java program, BlueJ will show up automatically. So I can fix it quickly.
+   (2)I will try to compile before I test my program, if some bugs do not fix, it will show with yellow warning.
+   (3)I try to run my program and demos, I will enter the same number and get results. Next, I will compare my results with demo program results. If the results are not the same, I will look my Java code again and try to fix it. If there are no demo programs, I will try to compare with my hand calculate.
+
+   I think the better approaches are running my program and compare with my results or demo results, and then find which steps are wrong or formula not currect. Finally, look the code again to fix it.
+   
+   Methods must be in the Java program, which can be method calls and objects. And we learn the variables which can hold a value.
+   
+   This week's reflection:
+   We use parameters to make program better and easily to understand. The parameters should be different depends on different situation. In addition, we also need define "printf()" before the argument. We also learned "this" that means the object that the current method was called on. We also learned returning values, and the value must be of the right type.
+   The most important thing we learned that how to create new object. The object is no data, just actions.

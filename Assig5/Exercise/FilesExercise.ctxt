@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printFile()
+comment0.text=\ This\ method\ lets\ you\ read\ the\ contents\ of\ a\ file.\r\n\ \ \ \ It\ is\ written\ for\ you,\ and\ may\ be\ helpful\ when\ working\ on\r\n\ \ \ \ the\ exercises\r\n
+comment1.params=
+comment1.target=void\ sumNumbers()
+comment1.text=\ Read\ numbers\ from\ a\ file\ called\ "numbers.txt"\ which\ contains\ only\ numbers\r\n\ \ \ \ adding\ them\ up,\ and\ printing\ the\ total\ at\ the\ end.\ (The\ total\ should\ be\ 2174)\r\n
+comment2.params=
+comment2.target=void\ drawCircles()
+comment2.text=\ read\ a\ file\ of\ pairs\ of\ numbers,\ and\ draw\ a\ circle\ of\ radius\ 20\ at\ each\ position.\r\n\ \ \ \ eg,\ if\ a\ line\ of\ the\ file\ has\ 120\ 350\ on\ it,\ then\ draw\ a\ circle\ centered\ at\r\n\ \ \ \ (120,\ 350).\ You\ can\ make\ them\ all\ the\ same\ colour\ or\ random\ colours\r\n
+comment3.params=
+comment3.target=void\ drawNames()
+comment3.text=\ read\ a\ file\ of\ names\ and\ positions,\ and\ draw\ them\ on\ the\ graphics\ pane.\r\n\ \ \ \ each\ line\ of\ the\ file\ has\ two\ numbers\ (x\ and\ y)\ a\ one\ word\ name,\ followed\ by\ three\r\n\ \ \ \ integers\ specifying\ the\ color\ to\ draw\ the\ name.\r\n\ \ \ \ For\ each\ line,\ it\ sets\ the\ color,\ then\ draws\ the\ name\ at\ the\ position.\r\n\ \ \ \ If\ the\ three\ colour\ integers\ are\ in\ r,\ g,\ and\ b,\ then\ you\ can\ set\ the\ colour\r\n\ \ \ \ using\ \ UI.setColor(new\ Color(r,\ g,\ b)));\r\n
+comment4.params=
+comment4.target=void\ firstWords()
+comment4.text=\ Read\ a\ file\ called\ "text.txt"\ and\ print\ out\ just\ the\ first\ token\ (word)\ on\ each\ line.\r\n
+comment5.params=
+comment5.target=void\ longestWord()
+comment5.text=\ Read\ words\ from\ a\ file\ and\ print\ out\ the\ longest\ word.\r\n
+comment6.params=
+comment6.target=void\ largeCourses()
+comment6.text=\ Read\ coursecodes\ and\ course\ sizes\ (number\ of\ students)\ from\ file\ and\r\n\ \ \ \ count\ how\ many\ courses\ have\ more\ than\ 100\ students\r\n
+comment7.params=
+comment7.target=void\ totalOrder()
+comment7.text=\ Read\ order\ file\ consisting\ of\ lines\ with\:\r\n\ \ \ \ item\ \ count\ \ unit-price,\r\n\ \ \ \ and\ then\ print\ total\ cost\ of\ order\r\n
+numComments=8

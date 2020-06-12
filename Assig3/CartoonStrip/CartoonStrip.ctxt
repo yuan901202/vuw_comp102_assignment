@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ animate()
+comment0.text=\ animate\ creates\ two\ cartoon\ figures\ and\ places\ them\ on\ the\ window.\n\ \ Then\ animates\ them\ according\ to\ a\ fixed\ script\ by\ calling\ a\ series\n\ \ of\ methods\ on\ the\ figures.\n
+comment1.params=
+comment1.target=void\ dance()
+comment1.text=\ dance\ creates\ a\ cartoon\ figure\ and\ places\ it\ on\ the\ window.\n\ \ Then\ makes\ the\ figure\ dance\ by\ calling\ two\ different\ dance\ step\ methods\n\ \ several\ times.\ \n
+comment2.params=
+comment2.target=void\ restartUI()
+comment2.text=this\ method\ is\ here\ to\ make\ it\ easy\ to\ restart\ the\ UI\ window\ from\ bluej
+numComments=3

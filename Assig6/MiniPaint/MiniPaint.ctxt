@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiniPaint()
+comment0.text=Sets\ up\ the\ user\ interface\ -\ mouselistener\ and\ buttons
+comment1.params=cmd
+comment1.target=void\ buttonPerformed(java.lang.String)
+comment1.text=Respond\ to\ button\ presses
+comment2.params=action\ x\ y
+comment2.target=void\ mousePerformed(java.lang.String,\ double,\ double)
+comment2.text=Respond\ to\ mouse\ events
+numComments=3

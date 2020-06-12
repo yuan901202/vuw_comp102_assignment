@@ -1,0 +1,39 @@
+COMP 102  Assignment 8
+Name: Tianfu Yuan
+ID: 300228072
+
+Questions for Reflection: 
+=========================
+
+
+1. Explain why "off-by-one" errors are so easy to make when programming with
+arrays.
+
+Because when an iterative loop iterates one time too or too few will have "off-by-one" errors. Usually this problem arises when a programmer fails to take into account that a sequence starts at zero rather than one, or makes mistakes such as using "is less than or equal to" where "is less than" should have been used in a comparison. 
+I usually initialise the loop counter variables to 0 instead of 1, then when the loop to < number the user enters the program will get to all of the elements in the array.
+
+2. Both BalloonGame and Genealogy used another class that was written for you.
+This saved you writing some code, but it also constrained you to write the
+program in a particular way.  Discuss the advantages and disadvantages you
+found when having a predefined class that you had to use as part of your
+program.
+
+Advantages:
+1)We do not need to defined class by ourself.
+2)Remind us what kind of class we have, do not need to create new class.
+
+Disadvantages:
+1)It is not my "way", we use other predefined class, but not our usually used language.
+2)We need to "pre understand" the class was predefined that means predefined class is strange to us.
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have
+a better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+
+Last week's reflection:
+This week I learned how to use an arrays to make the program's design better and easier. Firstly, an arrays is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed. Secondly, each item in an array is called an element, and each element is accessed by its numerical index. Finally, like declarations for variables of other types, an array declaration has two components: the array's type and the array's name. 
+
+This week's reflection:
+This week I learned design programs with arrays by standard common patterns. We have four common patterns that includes arrays to hold fixed number of values, arrays to hold a variable number of values and arrays with meaningful indices. Especially, for the arrays with meaningful indices, arrays to store a collection, but index does not mean anything, and  need to give fixed data. Sometimes, index represents meaningful information. We also learned 2D arrays that means how to create a "table". 2D arrays contains rows and columns.

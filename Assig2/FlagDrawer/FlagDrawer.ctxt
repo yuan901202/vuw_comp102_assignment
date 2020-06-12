@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ norwayFlag()
+comment0.text=\ The\ flag\ for\ Norway\ is\ a\ red\ rectangle\ with\n\ a\ blue\ cross\ with\ a\ white\ border,\ slightly\ off-set\ to\ the\ left-hand\ side;\n
+comment1.params=
+comment1.target=void\ maldivesFlag()
+comment1.text=\ The\ flag\ for\ Maldives\ is\ a\ red\ rectangle\ with\n\ a\ smaller\ green\ rectangle\ in\ the\ middle\ and\ a\ white\ crescent\ in\ the\ center;\n
+comment2.params=
+comment2.target=void\ greenlandFlag()
+comment2.text=\ The\ flag\ for\ Greenland\ is\ a\ rectangle\ whose\ top\ half\ is\ white\n\ and\ bottom\ half\ is\ red.\ There\ is\ a\ circle\ in\ the\ middle\ (off-set\ to\ left)\ \n\ which\ is\ also\ half\ white/red\ but\ on\ the\ opposite\ sides.\n
+comment3.params=
+comment3.target=void\ jamaicaFlag()
+comment3.text=\ The\ challenge\:\ \ The\ Jamaican\ flag\ has\ a\ yellow\ diagonal\ cross\ with\ \n\ \ \ \ \ \ green\ triangles\ top\ and\ bottom,\ and\ black\ triangles\ left\ and\ right.\n\ \ \ \ \ \ There\ is\ no\ fillTriangle\ method\ in\ the\ UI\ class\!\n
+numComments=4

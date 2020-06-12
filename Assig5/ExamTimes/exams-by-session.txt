@@ -1,0 +1,248 @@
+=======================================
+Exams on day 1:
+IBUS212, 172
+STAT131, 164
+Total students expected = 336
+=======================================
+Exams on day 2:
+ARCH251, 88
+BBSC251, 50
+COML111, 175
+COML303, 305
+COMP311, 49
+COMP471, 6
+FREN333, 17
+LAWS334, 105
+MATH453, 3
+PHYS215, 39
+PSYC441, 7
+Total students expected = 844
+=======================================
+Exams on day 3:
+ECON401, 3
+ECON405, 10
+MGMT101, 895
+PHIL209, 33
+PHIL309, 22
+Total students expected = 963
+=======================================
+Exams on day 4:
+ECON415, 5
+FINM471, 2
+INFO301, 99
+LAWS213, 281
+MMAF522, 17
+Total students expected = 404
+=======================================
+Exams on day 5:
+MMAF522, 0
+Total students expected = 0
+=======================================
+Exams on day 6:
+BIOL243, 15
+BIOL329, 62
+BMSC243, 70
+CHEM425, 6
+ESCI112, 80
+FHSS111, 74
+GERM314, 14
+LAWS329, 62
+MAOR216, 48
+MGMT319, 48
+MMBA503, 11
+ORST483, 4
+PUBL205, 23
+PUBL207, 41
+Total students expected = 558
+=======================================
+Exams on day 7:
+ENGL441, 21
+GPHS424, 3
+LING221, 106
+PHYS417, 3
+SPAN316, 22
+STAT331, 10
+Total students expected = 165
+=======================================
+Exams on day 8:
+BIOL227, 72
+COMP442, 19
+MAOR121, 39
+MARK403, 11
+PHYS115, 96
+PHYS414, 6
+TECH423, 2
+Total students expected = 245
+=======================================
+Exams on day 9:
+ECON407, 6
+INTP248, 104
+MOFI306, 6
+TECH302, 20
+Total students expected = 136
+=======================================
+Exams on day 10:
+ACCY111, 1058
+BIOL328, 83
+ECON314, 43
+LAWS303, 84
+MOFI404, 2
+PHYS132, 32
+Total students expected = 1302
+=======================================
+Exams on day 11:
+CLAS105, 176
+CMSP805, 20
+COMP423, 6
+CRIM312, 31
+ECON140, 542
+ENGL402, 8
+FREN411, 4
+INTP447, 21
+LATI214, 8
+LAWS340, 87
+MARK313, 46
+MBIO434, 4
+MDIA202, 120
+MGMT314, 90
+MMBA553, 19
+MMMS509, 5
+QUAN301, 21
+Total students expected = 1208
+=======================================
+Exams on day 12:
+QUAN301, 0
+Total students expected = 0
+=======================================
+Exams on day 13:
+QUAN301, 0
+Total students expected = 0
+=======================================
+Exams on day 14:
+ARTH313, 23
+BMSC117, 120
+ENVI314, 49
+ESCI413, 5
+GEOG314, 51
+GREE316, 3
+INTP113, 530
+INTP444, 28
+ITAL306, 12
+ITAL402, 3
+MAOR316, 7
+MMMS504, 6
+MOFI202, 188
+POLS316, 3
+SAMO102, 11
+Total students expected = 1039
+=======================================
+Exams on day 15:
+BIOL113, 149
+ECON413, 6
+ESCI304, 19
+INTP445, 21
+LAWS122, 475
+LAWS301, 257
+LAWS314, 2
+MARK203, 53
+MATH207, 92
+PHYS309, 25
+PSYC338, 68
+PSYC451, 7
+SAMO302, 8
+Total students expected = 1182
+=======================================
+Exams on day 16:
+CLAS210, 56
+CLAS310, 24
+CRIM318, 62
+FREN403, 7
+INTP417, 4
+LAWS342, 74
+LING321, 33
+POLS364, 58
+POLS417, 15
+STAT193, 674
+Total students expected = 1007
+=======================================
+Exams on day 17:
+ARTH112, 123
+BITT301, 22
+COMP312, 6
+ENVI214, 60
+ESCI303, 23
+GEOG214, 48
+INTP441, 21
+MMAF530, 1
+MOFI409, 9
+OPRE352, 15
+PHIL225, 24
+PHIL325, 17
+PHYS209, 26
+PHYS412, 4
+QUAN111, 438
+SWEN102, 54
+Total students expected = 891
+=======================================
+Exams on day 18:
+COMP307, 49
+ENGL427, 10
+INTP427, 8
+LAWS211, 303
+MBUS401, 4
+NZSM234, 10
+NZSM334, 14
+PHYS131, 45
+POLS427, 7
+SAMO111, 32
+SPAN401, 6
+STAT338, 55
+Total students expected = 543
+=======================================
+Exams on day 19:
+STAT338, 0
+Total students expected = 0
+=======================================
+Exams on day 20:
+ARCH172, 165
+ARTH310, 29
+GPHS441, 1
+HRIR303, 80
+INFO102, 186
+LATI331, 10
+MAOR308, 2
+MARK261, 31
+MDIA308, 32
+NZSM436, 3
+PASI202, 20
+PGEO401, 10
+PHYS441, 1
+PSYC321, 159
+PUBL303, 26
+Total students expected = 755
+=======================================
+Exams on day 21:
+ARCH363, 77
+BBSC363, 31
+CRIM321, 68
+DEVE501, 22
+ECON409, 5
+ENGL243, 93
+INTP261, 1
+MARK311, 278
+MATH433, 3
+PHIL234, 12
+PHIL334, 9
+POLS112, 302
+QUAN203, 65
+Total students expected = 966
+=======================================
+Exams on day 22:
+ANTH102, 231
+ARCH271, 8
+BIOL433, 8
+BMSC433, 11
+COMP417, 9
+LAWS214, 278
+STAT291, 141
+Total students expected = 686

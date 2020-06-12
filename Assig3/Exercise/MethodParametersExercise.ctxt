@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ nameTag()
+comment1.params=name\ number
+comment1.target=void\ drawNameTag(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ bottleSong()
+comment2.text=Prints\ out\ the\ words\ to\ a\ traditional\ repetitive\ song.
+comment3.params=num
+comment3.target=void\ bottleSongVerse(int)
+comment4.params=
+comment4.target=void\ signalZeroFlag()
+comment4.text=\ Draws\ the\ flag\ used\ by\ the\ US\ navy\ to\ signal\ the\ value\ "zero"\:\n\ \ \ \ a\ white\ square\ with\ five\ little\ blue\ crosses\ on\ it\ (laid\ out\ like\ the\n\ \ \ \ dots\ on\ the\ "5"\ side\ of\ ordinary\ dice).\n\ \ \ \ See\ http\://www.navy.mil/navydata/communications/flags/num0.gif\n
+numComments=5

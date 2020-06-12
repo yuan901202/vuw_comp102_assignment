@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printNameTag()
+comment0.text=Print\ a\ nametag\ with\ a\ name\ inside\ a\ box\ made\ of\ asterisks
+comment1.params=
+comment1.target=void\ drawNameTag()
+comment1.text=\ Draw\ a\ nametag\ on\ the\ graphics\ pane\n\ \ The\ rectangular\ nametag\ is\ 300\ units\ wide\ and\ 150\ units\ high\n\ \ and\ the\ left\ edge\ is\ 100\ units\ over\ and\ the\ top\ is\ 70\ units\ down\n
+numComments=2

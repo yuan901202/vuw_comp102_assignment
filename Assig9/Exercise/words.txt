@@ -1,0 +1,24 @@
+10 8
+1 6 good
+0 2 a
+8 1 was
+0 3 a
+5 0 stick
+3 1 way
+0 0 hold
+3 5 to
+4 2 herself
+8 0 series
+9 4 sat
+5 2 and
+3 2 with
+7 7 out
+2 4 yelp
+1 7 held
+7 3 its
+4 1 side
+6 1 then
+4 7 again
+5 6 off
+8 4 it
+9 5 once

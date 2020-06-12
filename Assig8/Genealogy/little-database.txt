@@ -1,0 +1,11 @@
+10
+6 Angel 1805 -1 -1
+0 Devin 1810 -1 -1
+4 Jessie 1839 6 0
+1 Alex 1840 6 0
+8 Jordan 1842 6 0
+7 Alexis 1843 -1 -1
+9 Kasey 1883 -1 8
+5 Addison 1907 1 7
+3 Kelly 1910 9 -1
+2 Dominique 1915 1 7

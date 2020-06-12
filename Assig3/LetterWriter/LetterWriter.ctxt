@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ writeALetter()
+comment0.text=\ Write\ out\ a\ series\ of\ at\ least\ five\ marketing\ letters.\ Each\ letter\ should\n\ \ \ \ \ \ \ \ be\ addressed\ to\ a\ different\ person\ and\ should\ use\ their\ name\ several\ times\ in\n\ \ \ \ the\ letter.\ Each\ letter\ should\ be\ marketing\ a\ different\ product\ at\ 60%\ off\ its\n\ \ \ \ retail\ price.\ Both\ the\ retail\ price\ and\ the\ discount\ price\ should\ be\ included\n\ \ \ \ in\ the\ letter.\ \n
+comment1.params=name\ brand\ price
+comment1.target=void\ writeLetters(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ writerALetterCompletion()
+comment2.text=\ Write\ out\ a\ series\ of\ at\ least\ five\ marketing\ letters.\ Each\ letter\ should\n\ \ \ \ \ \ \ \ be\ addressed\ to\ a\ different\ person\ and\ should\ use\ their\ name\ several\ times\ in\n\ \ \ \ the\ letter.\ Each\ letter\ should\ be\ marketing\ a\ different\ product\ at\ 60%\ off\ its\n\ \ \ \ retail\ price.\ Both\ the\ retail\ price\ and\ the\ discount\ price\ should\ be\ included\n\ \ \ \ in\ the\ letter.\ There\ should\ be\ an\ additional\ discount\ for\ larger\ orders.\n\ \ \ \ The\ number\ of\ items\ required\ for\ a\ "larger"\ order\ will\ be\ different\ for\ each\ letter.\n
+comment3.params=name\ thing\ brand\ family\ num\ price
+comment3.target=void\ writeLettersCompletion(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+numComments=4

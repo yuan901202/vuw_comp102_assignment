@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestImageRenderer()
+comment1.params=b
+comment1.target=void\ buttonPerformed(java.lang.String)
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3

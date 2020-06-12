@@ -1,0 +1,30 @@
+COMP 102 2012T1;  Assignment 2
+
+Questions for Reflection: 
+=========================
+
+Name: Tianfu Yuan	
+ID: 300228072
+
+Almost certainly, when you wrote your code, you had bugs in it which you had to fix. Some of the bugs were probably easy to identify; others probably took more time.
+
+1. Characterise the kinds of bugs you had to deal with (eg spelling, capitalisation, ...)
+(1)Wrong spelling: like colour should be color, using American spelling
+(2)Capitalisation: Java program is can identify the upper and lower letter, and following the keywords should be have different letter.
+(3)Comma: following the color should not be a comma, it should be a "point"
+(4)Wrong grammar
+(5)Wrong calculate: difficult to find and fix it.
+
+2. What techniques for fixing the bugs were most effective for you? Can you think of better approaches that you could use next time?
+(1)When some bugs shown on my Java program, BlueJ will show up automatically. So I can fix it quickly.
+(2)I will try to compile before I test my program, if some bugs do not fix, it will show with yellow warning.
+(3)I try to run my program and demos, I will enter the same number and get results. Next, I will compare my results with demo program results. If the results are not the same, I will look my Java code again and try to fix it. If there are no demo programs, I will try to compare with my hand calculate.
+
+I think the better approaches are running my program and compare with my results or demo results, and then find which steps are wrong or formula not currect. Finally, look the code again to fix it.
+
+In learning about programming and Java, you will need to build up an understanding of lots of concepts. It can help to write down the differenct concepts as you learn them, and work out how they relate to each other and the concepts you learned previously. Identify the important concepts you learned this week, giving a one sentence description of each of them:
+Methods must be in the Java program, which can be method calls and objects. And we learn the variables which can hold a value.
+
+
+
+

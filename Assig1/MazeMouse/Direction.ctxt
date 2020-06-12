@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Direction\ left()
+comment1.params=
+comment1.target=Direction\ right()
+comment2.params=
+comment2.target=Direction\ opposite()
+numComments=3

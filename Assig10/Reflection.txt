@@ -1,0 +1,41 @@
+COMP 102  Assignment 10
+Name: Tianfu Yuan
+ID: 300228072
+
+Questions for Reflection: 
+=========================
+
+
+This was the last assignment for COMP102.  Think back to the beginning of the
+course and what you knew at that point, and then list some of the new skills
+and understanding that you believe that you have gained during this course.
+
+[For some of you who knew a lot already, there may only have been a few new
+things, but try to identify them].
+
+[For some of you who are still finding the course difficult, you could
+try doing some of the early assignments again; you may find them an awful lot
+easier the second time round, demonstrating that you have learned stuff!]
+
+I'm able to understand, design, and construct small programs using the Java programming
+language and an object-oriented design approach when we end of the course.
+I learned how to use Javascript to design website when I was study at Foundation Studies.
+Some parts of Javascript is similar with Java, like array.
+But large part of Java that I was learned this time is new to me.
+For example:
+1) UI methods -- predefined object
+2) Graphical output -- draw/fill methods
+3) Parameters -- limit method
+4) Return values -- "this."
+5) Creating objects -- "new"
+6) Conditionals -- "if ... else" or "if ... else if ..."
+7) Boolean value -- a value that is either true or false
+
+8) Input method -- "next"
+
+9) Files -- reading and writing from a file
+
+10) Event-driven input -- user interface
+
+11) Array, 2D array -- store information
+...

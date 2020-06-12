@@ -1,0 +1,43 @@
+Name: Tianfu Yuan
+Usercode: yuantian
+ID: 300228072
+
+Questions for reflection.
+=========================
+
+The NamePrinter program is pretty simple, but it still contains quite a lot of
+different kinds of instructions. Even though we haven't covered them all in
+lectures yet, you should still be able to make educated guesses about what they
+mean.
+
+1. Group the instructions in the code into several different categories.
+
+(1)Keywords: public, class, void ...
+(2)Identifiers: UI.printIn, UI.setColor, UI.clearGraphics ...
+(3)Strings: and
+(4)Numbers: 100, 70 ...
+(5)Operators and punctuation: + - * / ; , ( ) { } [ ].
+
+2. Can you guess at which elements of the instructions could be varied?
+
+I think identifiers elements of the instructions could be varied.
+
+
+The MazeMouse puzzle is trickier than it first looks, like lots of programming tasks.
+
+1. What process did you go through to try to solve the puzzle?
+
+I try to add or delete some black squares on the MazeMouse, then I try to fill the solutions with my methods.
+However, when I change some black squares, and run the application without change my methods, it would not
+working again. As a result, my methods only working on the first solution. So I try to another method, and it
+worked well.
+
+2. If you were trying to be systematic in checking that someone else's proposal
+would work on any maze, how would you go about it?
+
+I might be changing some solutions randomly,then run the application without changing method. Firstly, I
+could be changing some solutions on the MazeMouse, then run it. If it is still can solving the puzzle, I
+need repeat the first step, unless I found the way could not solve the puzzle or not. Finally, I will
+checking that someone else's working methods again.
+
+

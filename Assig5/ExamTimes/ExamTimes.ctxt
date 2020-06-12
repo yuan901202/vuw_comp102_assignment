@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=targetCourse
+comment0.target=void\ printCourse(java.lang.String)
+comment0.text=\ Reads\ the\ timetable\ file,\ printing\ out\ all\ the\ lines\ that\ involve\r\n\ \ \ \ the\ specified\ course\r\n\ \ \ \ (ie,\ all\ the\ lines\ whose\ first\ token\ matches\ the\ course)\r\n
+comment1.params=targetDate
+comment1.target=void\ printSession(int)
+comment1.text=\ Reads\ the\ timetable\ file,\ printing\ out\ (to\ the\ UI\ window)\ all\ the\r\n\ \ \ \ course\ codes,\ rooms,\ and\ name\ ranges\ for\ exams\ on\ the\ specified\ date\r\n\ \ \ \ It\ will\ be\ best\ to\ read\ the\ six\ tokens\ on\ each\ line\ individually.\r\n
+comment2.params=targetDate\ name
+comment2.target=void\ printPossibleExams(int,\ java.lang.String)
+comment2.text=\ Reads\ the\ timetable\ file\ and\ prints\ out\ all\ the\ exams\ (course\r\n\ \ \ \ and\ room)\ that\ the\ specified\ student\ could\ possibly\ be\ on\ the\ specified\ date\r\n\ \ \ \ (taking\ into\ account\ the\ range\ of\ names\ in\ the\ rooms).\r\n
+comment3.params=
+comment3.target=void\ dailyLists()
+comment3.text=\ (Completion\ -\ harder)\r\n\ \ \ \ dailyLists\ writes\ a\ file\ listing,\ for\ each\ date,\ all\ the\ course\ codes\ with\r\n\ \ \ \ an\ exam\ on\ that\ date,\ along\ with\ the\ number\ of\ students\ in\ the\ course,\ and\r\n\ \ \ \ also\ the\ total\ number\ of\ students\ expected\ that\ date.\r\n\ \ \ \ It\ may\ assume\ that\ the\ dates\ (which\ are\ all\ in\ the\ same\ month)\ go\ from\ 1\ to\ 22.\r\nIt\ may\ also\ assume\ that\ the\ examdata.txt\ file\ is\ sorted\ by\ course\ code.
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

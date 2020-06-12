@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ playRound()
+comment0.text=Play\ one\ round\ of\ RPS\ and\ print\ out\ the\ choices\ and\ the\ result
+comment1.params=
+comment1.target=void\ playRPSGame()
+comment1.text=\ Play\ 6\ rounds\ of\ RPS.\ This\ method\ contains\ a\ loop\ that\n\ \ will\ call\ the\ playRound\ method\ six\ times.\n
+comment2.params=
+comment2.target=void\ playRPS2()
+comment2.text=\ COMPLETION\ VERSION\n\ \ \ \ Play\ \ RPS\ rounds\ until\ the\ player's\ score\ reaches\ 5\ or\ -5.\n\ \ \ \ or\ the\ user\ enters\ "exit"\ or\ "quit"\n
+numComments=3

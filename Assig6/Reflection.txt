@@ -1,0 +1,39 @@
+COMP 102 2010T2;  Assignment 6
+Name: Tianfu Yuan
+ID: 300228072
+
+
+Questions for Reflection: 
+=========================
+
+
+1. For the BouncingBall class, you had to choose fields to store the state
+of the robot, including its position and its speed/velocity. There are several
+reasonable choices for this, not just the suggested one. What other choices
+could you have made? What would the consequences of your choice be when you
+came to write the methods - what would be easier using the suggested way, and
+what would be easier the other way? 
+
+We can represent the volocity by two more fileds that store the horizontal speed - the distance it will move to the right on each srep - and the vertical speed - the distance it will move up (or down if the speed is negative) on  each step. Another way to store the state of the robot is that we can use a method refer to a field of the object it was called on "this.fieldname."
+When I writen my method, the consequences of my choice is that the method need to use what I defined object before the field.
+To easier using the suggested way is that set the state of the ball and other constants for the ball. Storing the parameters into fields and initialises the other fields.
+
+2. For MiniPaint, you had to work out how to make event-driven input work. What
+was difficult? Was it more difficult than the previous programs? If so, in what
+way?
+
+In a GUI, the interaction is controlled by the user, not by the program. So we need to setting up the GUI and the responding object. This is not difficult than the previous programs, but it more complicated. Because we need to define different method that specifies how to respond, such as "buttonPerformed", "silderPerformed", "textFieldPerformed" different GUI has different responds, so it quite different than the previous programs.
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+
+Last week's reflection:
+This week I learned how to reading and writing file from user. And how to make a data fields. First of all, we learned use "scanner" to read user input from a source. Secondly, we learned use "UIFileChooser" allow the user to choose a file, which devide to two method open and save. Thirdly, we learned use "PrintSteam" to writing to a file. In addition, we learned debugging. However, I quite confused about this. For example, I'm not sure how program can debugging itself. Finally, we learned how to make a data fileds by using classes, objects, fileds and constructors. 
+Especially, we learned how to create our own data filed that store the information associated with the object.
+
+This week's reflection:
+This week I learned how to design with classes and objects and event-driven input. Firstly, design the classes and objects. Before design the programs we need to store inforamtion that it will use in the next method. There has two kinds of places to store information: one of it is that using variables to defined inside a method, and another one is that using fileds to defined inside a class, but not inside a method. Secondly, we learned event-driven input that the interacton is controlled by the user. We need to setting up the GUI and responding object in different method.
+The most significant thing we learned is that the buttons, textfields and silders must have a name and their listener object must have a method that responds, and it must be of the right type.

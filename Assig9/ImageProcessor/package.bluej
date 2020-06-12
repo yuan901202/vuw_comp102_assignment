@@ -1,0 +1,22 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=326
+package.editor.y=160
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=windows-1252
+target1.editor.height=795
+target1.editor.width=797
+target1.editor.x=199
+target1.editor.y=59
+target1.height=50
+target1.name=ImageProcessor
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=130
+target1.y=30

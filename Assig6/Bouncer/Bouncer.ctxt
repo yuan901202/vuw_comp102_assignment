@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ bounceTwoBalls()
+comment1.params=
+comment1.target=BouncingBall\ makeNewBall()
+comment1.text=Helper\ method\ that\ makes\ a\ new\ BouncingBall\ with\ random\ initial\ values
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+comment2.text=Create\ a\ new\ Bouncer\ object\ and\ call\ bounceAround
+numComments=3

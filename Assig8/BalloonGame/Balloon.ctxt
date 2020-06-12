@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Balloon(double,\ double)
+comment0.text=\ Construct\ a\ new\ Balloon\ object.\ \n\tParameters\ are\ the\ coordinates\ of\ the\ center\ of\ the\ balloon\ \n
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=void\ expand()
+comment2.text=Make\ the\ balloon\ larger\ by\ a\ random\ amount\ between\ 4\ and\ 10
+comment3.params=x\ y
+comment3.target=boolean\ on(double,\ double)
+comment3.text=Returns\ true\ if\ the\ point\ (x,y)\ is\ on\ the\ balloon,\ and\ false\ otherwise
+comment4.params=other
+comment4.target=boolean\ touches(Balloon)
+comment4.text=Returns\ true\ if\ this\ Balloon\ is\ touching\ the\ other\ balloon,\ and\ false\ otherwise
+comment5.params=
+comment5.target=double\ size()
+comment5.text=Calculates\ and\ returns\ the\ area\ of\ the\ balloon
+comment6.params=
+comment6.target=void\ pop()
+comment6.text=pop\ the\ balloon\ (draws\ it\ in\ gray,\ and\ pauses\ briefly)
+numComments=7

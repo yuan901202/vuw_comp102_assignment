@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=1552
+package.editor.y=95
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=506
+target1.editor.width=660
+target1.editor.x=528
+target1.editor.y=384
+target1.height=50
+target1.name=NamePrinter
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=100
+target1.x=60
+target1.y=10

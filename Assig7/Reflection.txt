@@ -1,0 +1,42 @@
+COMP 102;  Assignment 7
+Name: Tianfu Yuan
+ID: 300228072
+
+Questions for Reflection: 
+=========================
+
+
+1. Programs with arrays let you do more than the programs you have made in
+previous assignments, but they are a bit more complicated to use than simple
+variables. What new things do you have to take care of in programs that use
+arrays?  
+
+An arrays is an object with a sequence of places. We need to be careful the types, because all elements are of the same types by using arrays. And each element referred to by its index. And also using an arrays for loops, we need to consider three different statements which is initialisation, condition and increment.
+
+2. Arrays allow you to write programs with collections of data, but so do
+files. What are the similarities and differences between files and
+arrays.  What can you do with one that is hard or impossible with the other?
+
+-Similarities:
+1) Arrays and files both can be write and read a file.
+2) Both can be storing values.
+3) Both can be use loops.
+
+-Differences:
+1) Files can only read or write one at a time, but arrays can be read or write as many as you can.
+2) Files cannot use lots of variables, but arrays can be used.
+3) Arrays have the same type of all elements, but files can be have different types.
+4) Files need to remember lots of values, but arrays do not need to remember.
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+
+Last week's reflection:
+This week I learned how to design with classes and objects and event-driven input. Firstly, design the classes and objects. Before design the programs we need to store inforamtion that it will use in the next method. There has two kinds of places to store information: one of it is that using variables to defined inside a method, and another one is that using fileds to defined inside a class, but not inside a method. Secondly, we learned event-driven input that the interacton is controlled by the user. We need to setting up the GUI and responding object in different method.
+The most significant thing we learned is that the buttons, textfields and silders must have a name and their listener object must have a method that responds, and it must be of the right type.
+
+This week's reflection:
+This week I learned how to use an arrays to make the program's design better and easier. Firstly, an arrays is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed. Secondly, each item in an array is called an element, and each element is accessed by its numerical index. Finally, like declarations for variables of other types, an array declaration has two components: the array's type and the array's name. 

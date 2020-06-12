@@ -1,0 +1,33 @@
+COMP 102 2011T2;  Assignment 5
+Name: Tianfu Yuan
+ID: 300228072
+
+Questions for Reflection: 
+=========================
+
+
+1. ExamTimes and ImageRenderer both got their input from a file.
+Explain some of the differences between reading data from a file and reading
+data directly from the user.
+
+One of method is the file already defined that means the Java program directly reading file from user. The user cannot change the file before it opened. Another method is user can choose a file to reading that means the user can choose any file that they want and then the program analyse and print out it to user.
+
+2. The series of methods in ExamTimes were progressively more tricky. Identify
+what it was about the later ones that made them more difficult.
+
+Firstly, the dailylist need to write a file. Secondly, the method need to rescan the file repeatedly. Finally, the program need to debugging for the method.
+These three methods are quite difficult in this section.
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last week, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+
+Last week's reflection:
+This week I learned how to use while loop to make user continue input a list of variables. And I learned how to stop while loop by using "next" methods. I also learned use "break" to gets out of the enclosing while loop. However, I find "break" is quite difficulty to check my method correct. Otherwise, "break" must use "while (true)" and only use in the middle of the loop. And it cannot use to "keep going condition." In addition, we use ".equalsIgnoreCase()" enter a specific word to stop go through the program.
+One significant method used in Java code is that use while loop to keep the pragram going next step.
+
+This week's reflection:
+This week I learned how to reading and writing file from user. And how to make a data fields. First of all, we learned use "scanner" to read user input from a source. Secondly, we learned use "UIFileChooser" allow the user to choose a file, which devide to two method open and save. Thirdly, we learned use "PrintSteam" to writing to a file. In addition, we learned debugging. However, I quite confused about this. For example, I'm not sure how program can debugging itself. Finally, we learned how to make a data fileds by using classes, objects, fileds and constructors. 
+Especially, we learned how to create our own data filed that store the information associated with the object.

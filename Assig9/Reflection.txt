@@ -1,0 +1,52 @@
+COMP 102  Assignment 9
+Name: Tianfu Yuan
+ID: 300228072
+
+Questions for Reflection: 
+=========================
+
+
+1. 2D arrays have two indexes (or indices if you prefer latin). The programs in
+the assignment always used the first index for the row and the second index for
+the column.  Is this necessary - could you reverse them?  Explain why or why
+not.
+
+
+A 2D array lends itself to a visual display in rows and columns. This is not necessary, we
+can reverse the row and column. Because if the program is for the column-major order, the
+row and column terms in the formula are reversed.
+
+
+2. Some of them methods in the ImageProcessor program could be done in two
+different ways:  "in-place" (only using the array containing the image), or
+using a temporary array to store the image as it was being processed. Discuss
+the advantages and disadvantages of the two approaches. 
+
+
+Advantages:
+
+1) For temporary array, we can avoid a second array if we want.
+
+2) And also, temporary array could be easily change in the program.
+
+3) For "in-place" we can easily use two array as the same format.
+
+
+
+Disadvantages:
+
+1) For "in-place" we cannot avoid needing a second array.
+
+2) And also, "in-place" need have the same format.
+
+3. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have
+a better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them.
+
+Last week's reflection:
+This week I learned design programs with arrays by standard common patterns. We have four common patterns that includes arrays to hold fixed number of values, arrays to hold a variable number of values and arrays with meaningful indices. Especially, for the arrays with meaningful indices, arrays to store a collection, but index does not mean anything, and  need to give fixed data. Sometimes, index represents meaningful information. We also learned 2D arrays that means how to create a "table". 2D arrays contains rows and columns.
+
+This week's reflection:
+This week I learned 2D arrays and interface classes. First, we learned deal with 2D array with saving and loading a file. For saving a 2D array to a file we need assume the file has been opened elsewhere and passed as argument. And also we need use "foreach" caused by it is not modifying the array. Second, we also can loading 2D array from a file. This is related to the "Scanner" object, we need take two objects from a file. But we need make sure the scanner is passed as argument and array is stored in filed. In addition, we learned how to doing program without UI and comp102 library, we need use usual language to write a program, such as system.out stands for UI. Finally, we learned interface classes. In other words, it is object contains lots of classes. For object values we have two types, such as the type they were created as and the object type.

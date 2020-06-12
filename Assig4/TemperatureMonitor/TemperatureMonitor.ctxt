@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ analyseTemps()
+comment0.text=\ analyseTemps\ asks\ the\ user\ for\ a\ sequence\ of\ temperatures,\n\ It\ computes\ and\ prints\ out\ several\ statistics\ \n\ \ \ the\ maximum,\ minimum,\ and\ average\n\ \ \ the\ initial\ and\ final\ \n\ \ \ the\ number\ of\ readings\ over\ the\ threshold,\n\ \ \ the\ largest\ rise\ or\ fall.\n
+comment1.params=
+comment1.target=void\ plotTemps()
+comment1.text=\ Reads\ a\ sequence\ of\ values\ (integers)\ from\ the\ user\ and\ plots\ a\ bar\ graph\n\ \ of\ them,\ using\ narrow\ rectangles\ whose\ heights\ are\ equal\ to\ the\ value.\n\ The\ sequence\ is\ terminated\ by\ any\ word\ (non-number)\ such\ as\ "close"\ or\ "end".\n
+comment2.params=
+comment2.target=void\ analyseTempsCompletion()
+comment3.params=
+comment3.target=void\ plotTempsCompletion()
+numComments=4

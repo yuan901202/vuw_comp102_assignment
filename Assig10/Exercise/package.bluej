@@ -1,0 +1,23 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=229
+package.editor.y=114
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=50
+target1.name=Exercise
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=110
+target1.x=20
+target1.y=110
+target2.height=50
+target2.name=Circle
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=320
+target2.y=120
